@@ -1,5 +1,4 @@
 # Robotic Process Automation Project Batch 1 CSE B
-RPA project done using Ui-Path
 
 
 
